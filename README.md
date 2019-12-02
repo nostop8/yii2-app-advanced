@@ -1,3 +1,5 @@
+This is a fork of Yii2 Advanced Template which does not have username and instead of it uses email to authenticate/login user. If you need to start new Yii2 app and want to use email for authentication instead of username, then this is the right repository to start from.
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
